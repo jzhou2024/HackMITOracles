@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-image: url("image1.jpg");
+	background-image: url("image0.jpg");
 	background-position: center;
 }
 
@@ -27,6 +27,18 @@ h1
 	letter-spacing: 2px;
 	text-align: center;
 }
+h2
+{
+	color: #F0F8FF;
+	margin-bottom: 70px;
+	margin-left: 400px;
+	margin-right: 400px;
+	font-size: 30px;
+	letter-spacing: 2px;
+	text-align: center;
+}
+
+
 p
 {
 	color: #000;
